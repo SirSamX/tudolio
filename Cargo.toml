@@ -1,7 +1,15 @@
 [package]
 name = "todo"
+# authors = ["Graydon Hoare", "Fnu Lnu <no-reply@rust-lang.org>"]
 version = "0.1.0"
 edition = "2024"
+description = "A simple, lightweight terminal-based todo manager"
+readme = "README.md"
+homepage = "https://github.com/SirSamX/todo"
+repository = "https://github.com/SirSamX/todo"
+license = "MIT"
+keywords = ["todo", "cli", "terminal", "task-manager"]
+categories = ["command-line-utilities"]
 
 [dependencies]
 clap = { version = "4.6.7", features = ["derive"] }
