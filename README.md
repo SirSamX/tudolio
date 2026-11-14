@@ -1,12 +1,12 @@
 
-# todo
+# tudolio
 
 A simple, lightweight terminal-based todo manager written in Rust.
 
 ## Installation
 
 ```bash
-cargo install todo-cli
+cargo install tudolio
 ```
 
 ## Usage
